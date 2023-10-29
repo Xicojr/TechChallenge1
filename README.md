@@ -6,14 +6,20 @@ FIAP: Pós Tech - Data Analytics Tech Challenge #01
 ### Grupo 66 - Autores:
 
 - Flademir de Albuquerque
+
 - Lucas Ordonio
+
 - Franscisco
+
 - Tadeu Tupinambá
+### Vídeo explicando o projeto:
+
+
+### Slides com informações apresentadas:
+https://www.canva.com/design/DAFylduOAf8/WvsrF5Cr7cwE4IWMOG5oIQ/edit?utm_content=DAFylduOAf8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Objetivo
 O objetivo é apresentar análise sobre esse desempenho de exportação brasileira, mostrando os fatores que influenciaram as maiores vendas e o que podemos fazer para performar mais.
-
-### Slides com informações detalhadas e explicadas:
 
 ### Arquivos:
 
