@@ -22,6 +22,7 @@ https://www.canva.com/design/DAFylduOAf8/WvsrF5Cr7cwE4IWMOG5oIQ/edit?utm_content
 O objetivo é apresentar análise sobre esse desempenho de exportação brasileira, mostrando os fatores que influenciaram as maiores vendas e o que podemos fazer para performar mais.
 
 ### Arquivos:
+https://github.com/Xicojr/TechChallenge1
 
 - `./analises_externas/`
   - Outras fontes de dados que foram análisadas estão dentro desse folder
