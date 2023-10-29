@@ -9,11 +9,11 @@ FIAP: Pós Tech - Data Analytics Tech Challenge #01
 
 - Lucas Ordonio
 
-- Franscisco
+- Francisco das Chagas Peres Júnior
 
 - Tadeu Tupinambá
 ### Vídeo explicando o projeto:
-
+https://youtu.be/kmp_RYawfSM
 
 ### Slides com informações apresentadas:
 https://www.canva.com/design/DAFylduOAf8/WvsrF5Cr7cwE4IWMOG5oIQ/edit?utm_content=DAFylduOAf8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
