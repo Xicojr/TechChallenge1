@@ -33,7 +33,9 @@ O objetivo é apresentar análise sobre esse desempenho de exportação brasilei
 
 ### Conclusão da Análise (EDA)
 
-# Análise Exploratória dos Dados de Exportação de Vinho
+![Tabela final gerada](./images/tabela_resultado.png)
+
+### Análise Exploratória dos Dados de Exportação de Vinho
 ## 1. Principais Destinos de Exportação por Valor
 Os países onde é gerado o maior valor a partir das exportações de vinho são:
 
