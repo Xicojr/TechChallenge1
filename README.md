@@ -17,11 +17,11 @@ O objetivo é apresentar análise sobre esse desempenho de exportação brasilei
 
 ### Arquivos:
 
-- `analises_externas`
+- `./analises_externas/`
   - Outras fontes de dados que foram análisadas estão dentro desse folder
-- Dados
+- `./Dados/`
   - Aqui se encontra os dados utilizados para a análise
-- `First_Tech_Challenge.ipynb`
+- `./First_Tech_Challenge.ipynb`
   - Análise de dados, EDA e geração de gráficos e tabelas.
 
 ### Fontes de dados:
