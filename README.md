@@ -38,64 +38,54 @@ O objetivo é apresentar análise sobre esse desempenho de exportação brasilei
 
 
 ### Conclusão da Análise (EDA)
-
 ![Tabela final gerada](./images/tabela_resultado.png)
 
 ### Análise Exploratória dos Dados de Exportação de Vinho
 ## 1. Principais Destinos de Exportação por Valor
 Os países onde é gerado o maior valor a partir das exportações de vinho são:
 
-- Rússia: $25,064,390
+- Paraguai: $38,719,031
 
-- Paraguai: $20,501,133
+- Rússia: $25,504,484
 
-- Estados Unidos: $8,422,327
+- Estados Unidos: $9,684,567
 
-- Reino Unido: $4,368,194
+- China: $4,746,525
 
-- Espanha: $3,808,426
+- Reino Unido: $4,711,464
 
 ## 2. Menores Destinos de Exportação por Quantidade
 Os países que recebem a menor quantidade de vinho (onde a quantidade > 0) são:
 
-- Equador: 2 litros
+- Tuvalu: 2 litros
 
-- Montenegro: 9 litros
+- Indonésia: 5 litros
 
-- Belize: 9 litros
+- Belice: 9 litros
 
-- Serra Leoa: 18 litros
+- Mauritânia: 9 litros
 
-- Gibraltar: 23 litros
+- Comores: 9 litros
 
 
 ## 3. Razão Valor-por-Quantidade
 Países com o maior valor gerado por litro exportado:
 
-- Serra Leoa: $39,83 por litro
-
 - República Eslovaca: $27,46 por litro
 
-- Bulgária: $13,50 por litro
+- Bulgária: $13,20 por litro
 
-- Barbados: $10,94 por litro
+- Bangladesh: $11,09 por litro
 
-- Letônia: $9,62 por litro
+- Croácia: $11.04 por litro
 
 ## 4. Distribuição dos Dados
-- Quantidade:
-  - Média: 535,063 litros
-
-  - Mediana: 1,279 litros
-
-  - Desvio Padrão: 3,653,642 litros
-
 - Valor:
-  - Média: $670,069
+  - Média: $880,033
 
-  - Mediana: $5,092
+  - Mediana: $17,079
 
-  - Desvio Padrão: $2,996,849
+  - Desvio Padrão: $4,203,946
 
 ### Fontes de dados:
 Todos as bases de dados são mantidas pelas respectivas fontes.
